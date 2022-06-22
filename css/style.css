@@ -1621,6 +1621,9 @@ body {
   background-size: 250px;
 }
 
+.container span{
+  font-size: 150%;
+}
 
 
 /*--//responsive--*/
