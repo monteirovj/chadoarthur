@@ -1051,7 +1051,7 @@ color:#fff;
 
 @media(max-width:1280px) {
   .img-banner{
-    width: 45%;
+    width: 50%;
   }
   nav ul li a {
     padding: 7px 23px;
@@ -1075,7 +1075,7 @@ color:#fff;
 
 @media(max-width:1080px) {
   .img-banner{
-    width: 48%;
+    width: 52%;
   }
   .two-demo-button p {
     font-size: 15px !important;
