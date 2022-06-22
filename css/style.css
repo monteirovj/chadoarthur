@@ -958,25 +958,25 @@ color:#fff;
 
 @media(max-width:1800px) {
   .img-banner{
-    width: 42%;
+    width: 40%;
   }
 }
 
 @media(max-width:1680px) {
   .img-banner{
-    width: 45%;
+    width: 40%;
   }
 }
 
 @media(max-width:1600px) {
   .img-banner{
-    width: 45%;
+    width: 40%;
   }
 }
 
 @media(max-width:1440px) {
   .img-banner{
-    width: 45%;
+    width: 40%;
   }
   .main-top {
     min-height: 680px;
@@ -1030,7 +1030,7 @@ color:#fff;
 
 @media(max-width:1366px) {
   .img-banner{
-    width: 45%;
+    width: 40%;
   }
   .title span {
     letter-spacing: 4px;
@@ -1051,7 +1051,7 @@ color:#fff;
 
 @media(max-width:1280px) {
   .img-banner{
-    width: 45%;
+    width: 40%;
   }
   nav ul li a {
     padding: 7px 23px;
@@ -1075,7 +1075,7 @@ color:#fff;
 
 @media(max-width:1080px) {
   .img-banner{
-    width: 48%;
+    width: 43%;
   }
   .two-demo-button p {
     font-size: 15px !important;
@@ -1154,7 +1154,7 @@ color:#fff;
 
 @media(max-width:991px) {
   .img-banner{
-    width: 60%;
+    width: 55%;
   }
   .title span {
     font-size: 18px !important;
@@ -1254,7 +1254,7 @@ color:#fff;
 
 @media(max-width:768px) {
   .img-banner{
-    width: 70%;
+    width: 65%;
   }
   nav ul li a {
     padding: 5px 16px;
@@ -1350,7 +1350,7 @@ color:#fff;
 
 @media(max-width:667px) {
   .img-banner{
-    width: 75%;
+    width: 70%;
   }
   .main-top {
     min-height: 514px;
